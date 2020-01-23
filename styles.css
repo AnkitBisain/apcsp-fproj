@@ -1,0 +1,19 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+h2{
+  color: green;
+}
+li {
+  color: red;
+font-family: "Times New Roman", Times, serif;
+}
+td{
+font-family: verdana;
+}
+table, th, td {
+  border: 1px solid black;
+}
